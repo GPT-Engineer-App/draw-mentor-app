@@ -18,6 +18,9 @@ function Navigation() {
         <Button as={Link} to="/support" colorScheme="teal" variant="ghost">
           Support
         </Button>
+        <Button as={Link} to="/community" colorScheme="teal" variant="ghost">
+          Community
+        </Button>
       </Flex>
     </Box>
   );
